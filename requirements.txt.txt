@@ -1,0 +1,16 @@
+python=3.10
+geopandas
+matplotlib
+numpy
+pandas
+jupyter
+shapely
+jupyterlab
+osmnx
+networkx
+rioxarray
+scikit-learn
+seaborn
+streamlit
+contextily
+imageio
