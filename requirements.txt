@@ -7,3 +7,4 @@ seaborn
 streamlit
 contextily
 imageio
+folium
