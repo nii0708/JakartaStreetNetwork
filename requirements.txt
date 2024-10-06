@@ -8,3 +8,4 @@ streamlit
 contextily
 imageio
 folium
+osmnx
