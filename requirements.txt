@@ -9,3 +9,4 @@ contextily
 imageio
 folium
 osmnx
+mapclassify
