@@ -6,11 +6,6 @@ import folium
 from shapely.geometry import Point
 import osmnx as ox
 
-# turn response caching off
-ox.config(use_cache=False)
-
-# turn it back on and turn on/off logging to your console
-ox.config(use_cache=True, log_console=False)
 
 st.set_page_config(layout="wide")
 st.title('JAKARTA STREET NETWORK RESILIENCE')
